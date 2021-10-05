@@ -46,6 +46,6 @@ class BTInteractor():
     # print(contract.functions.backupsCount().call())
 
 
-if __name__ == '__main__':
-    interactor = BTInteractor('0x9484BBf583941e78Af3b361682e2B99909aB648c', 'd94b93442e0b2ef1a71b84e633637f923357dc9966065abc8ea5a67027850aad')
+# if __name__ == '__main__':
+#     interactor = BTInteractor('0x9484BBf583941e78Af3b361682e2B99909aB648c', 'd94b93442e0b2ef1a71b84e633637f923357dc9966065abc8ea5a67027850aad')
 
